@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: c(
     person(
       "Victoria", "Radzikhovsky",
-      email = "jane@example.com",
+      email = "radzikhovsky@usf.edu",
       
     )
   )
@@ -14,3 +14,4 @@ Depends: R(>= 3.1.2)
 License: CC0
 Encoding: UTF-8
 LazyData: true
+
