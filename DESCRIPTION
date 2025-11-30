@@ -1,17 +1,17 @@
-Package: Friedman
+Package: Analysisloans
 Type: Package
-Title: Concise one-line summary
+Title: Loan Analysis
 Version: 0.1.0
 Authors@R: c(
     person(
       "Victoria", "Radzikhovsky",
       email = "radzikhovsky@usf.edu",
-      
+      role = c("aut", "cre")
     )
   )
-Description: One paragraph describing functionality.
-Depends: R(>= 3.1.2)
+Description: Package that calculates savings ratio, correlation of different factors that affect loan approval,
+          builds an approval model, and develops a risk distribution histogram.
 License: CC0
 Encoding: UTF-8
 LazyData: true
-
+RoxygenNote: 7.3.3
